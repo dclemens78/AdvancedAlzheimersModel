@@ -67,7 +67,7 @@ def train_model(model, xtrain, xtest, ytrain, ytest):
     preds = model.predict(xtest)
     acc = accuracy_score(ytest, preds)
 
-    print(f"Test Accuracy: {acc:.2f}")
+    print(f"Test Accuracy: {100 * acc:.2f}")
     print("Confusion Matrix:")
     print(confusion_matrix(ytest, preds))
     print("Classification Report:")
