@@ -1,5 +1,5 @@
 # AdvancedAlzheimersModel
-Many third world countries lack the appropriate skill and medical technology to make advanced diagnoses in a speedy fashion. This model, when completed, will increase access to medical technology to those who can not afford it, saving lives lost due to late diagnoses of Alzheimer's (when it progresses to Dimentia).
+Many third world countries lack the appropriate skill and medical technology to make advanced diagnoses in a speedy fashion. This model, when completed, will increase access to medical technology to those who can not afford it, saving lives lost due to late diagnoses of Alzheimer's (when it progresses to Dementia).
 
 
 ## Editors Note
